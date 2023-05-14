@@ -1,0 +1,22 @@
+.content_highlight {
+    cursor: pointer;
+    margin-block-start: 45px;
+    margin-block-end: 0px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: left;
+    line-height: 32px;
+    color: #6BB8FF;
+    text-decoration: underline;
+}
+
+.claim_money_tips {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #060606;
+    white-space:nowrap;
+}

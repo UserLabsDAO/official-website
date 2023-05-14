@@ -1,0 +1,18 @@
+.p_App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.p_page {
+  width: 100%;
+  max-width: 1600px;
+  max-height: 900px;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  pointer-events: none;
+  align-items: center;
+}
+

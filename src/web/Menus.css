@@ -1,0 +1,10 @@
+.menu {
+    display: flex;
+    position: fixed;
+}
+
+.menu_item {
+    font-family: 'TomorrowMedium';
+    font-style: normal;
+    color: #EAEAEA;
+}

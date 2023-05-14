@@ -1,0 +1,27 @@
+.tips {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #CBCBCB;
+
+    opacity: 0.8;
+}
+
+.cover_logo {
+    width: 57%;
+    top: 25%;
+    position: absolute;
+}
+
+.cover_enter {
+    width: 5.9%;
+    bottom: 15%;
+    position: absolute;
+}

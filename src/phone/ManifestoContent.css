@@ -1,0 +1,158 @@
+.container {
+    width: calc(100% - 89px);
+    margin-left: 15px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 39px;
+    background-color: #151516;
+    background-repeat: repeat;
+    border-radius: 0px;
+    border: 13px solid orange;
+    border-image: url(../resources/paperborder.png) 23 23 23 23 fill stretch;
+    background-blend-mode: color-dodge;
+    padding: 20px;
+}
+
+.phone_content_title {
+    margin-left: 8px;
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    float: left;
+    width: 100%;
+
+}
+
+.text_content {
+    word-wrap: break-word;
+    word-break: normal;
+    display: block;
+    font-size: 15px;
+    line-height: 170%;
+    font-weight: 400;
+    font-family: 'FZYouSongS';
+    font-style: normal;
+    text-align: justify;
+    letter-spacing: -0.01em;
+    color: #c5c5c5;
+
+}
+
+.text_content_o {
+    text-align: left;
+
+    font-family: 'TomorrowRegular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 140%;
+    font-feature-settings: 'pnum' on, 'lnum' on, 'pcap' on;
+    color: #c5c5c5;
+
+
+}
+
+.claim_btn {
+    width: 100%;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #EAEAEA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 5px
+}
+
+
+.phone_cha3_menu{
+    float: left;
+    margin-left: 6px;
+    font-family: 'FZYouSongS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 170%;
+    /* or 26px */
+    letter-spacing: -0.01em;
+    /* Manifesto/manifesto-grey */
+    color: #ADADAD;
+}
+
+.phone_cha3_menu_o{
+    float: left;
+    margin-left: 6px;
+    font-family: 'TomorrowRegular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 180%;
+    /* or 26px */
+    letter-spacing: -0.01em;
+    /* Manifesto/manifesto-grey */
+    color: #ADADAD;
+    white-space: nowrap;
+}
+
+.img_discribe {
+    font-family: 'FZYouSongS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    /* identical to box height, or 17px */
+    text-align: center;
+    /* Manifesto/manifesto-darkgrey */
+    color: #868686;
+    margin-top: 5px;
+    text-align: center;
+    width: calc(100%-16px);
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.img_discribe_o {
+    margin-top: 5px;
+    text-align: center;
+    width: calc(100%-16px);
+    margin-left: 8px;
+    margin-right: 8px;
+
+    font-family: 'TomorrowRegular';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+
+    /* Manifesto/manifesto-darkgrey */
+
+    color: #868686;
+}
+
+.cha3_title {
+    font-family: 'Source Han Serif CN';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
+
+}
+
+.cha3_title_o {
+    font-family: 'TomorrowRegular';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 150%;
+    color: #FFFFFF;
+
+}

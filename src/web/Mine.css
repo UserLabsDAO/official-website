@@ -1,0 +1,137 @@
+
+.info_balance {
+    font-family: 'TomorrowMedium';
+    font-style: normal;
+    font-weight: 500;
+    /* identical to box height */
+
+    text-align: right;
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-middleyellow */
+
+    color: #FFE458;
+}
+
+.info_address {
+    font-family: 'TomorrowMedium';
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: right;
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-darkBG */
+
+    color: #060606;
+
+}
+
+.pop_title {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-white */
+
+    color: #EAEAEA;
+
+}
+
+.pop_balance {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 60px;
+    /* identical to box height */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-middleyellow */
+
+    color: #FFE458;
+
+}
+
+.pop_claim {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    /* Manifesto/manifesto-darkgrey */
+
+    color: #868686;
+
+}
+
+.pop_claim_value {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    /* Manifesto/manifesto-purewhite */
+
+    color: #FFFFFF;
+
+}
+
+.pop_redeem {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    color: rgba(255, 255, 255, 0.3);
+
+}
+
+
+.pop_timer {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Manifesto/manifesto-darkBG */
+
+    color: #060606;
+
+}
+
+.pop_dis {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    /* Manifesto/manifesto-white */
+
+    color: #EAEAEA;
+
+}

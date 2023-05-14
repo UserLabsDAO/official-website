@@ -1,0 +1,168 @@
+
+
+.phone_claim_pop_root {
+    width: calc(100% - 30px);
+    background-color: #060606;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-left: 1px solid rgba(255, 228, 88, 0.3);
+    border-right: 1px solid rgba(255, 228, 88, 0.3);
+    border-bottom: 1px solid rgba(255, 228, 88, 0.3);
+    border-top: 5px solid #FFE458
+}
+
+
+.phone_title {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-middleyellow */
+
+    color: #FFE458;
+}
+
+
+.phone_slogan {
+    font-style: normal;
+    font-weight: 500;
+    font-style: initial;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.claim_phone_address {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 180%;
+    /* or 32px */
+
+
+    /* Manifesto/manifesto-darkgrey */
+
+    color: #868686;
+
+}
+
+.phone_step {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 180%;
+    white-space: nowrap;
+    /* or 32px */
+
+
+    /* Manifesto/manifesto-lightyellow */
+
+    color: #FFFBE4;
+}
+
+.phone_step_content {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 180%;
+    /* or 32px */
+
+
+    /* Manifesto/manifesto-purewhite */
+
+    color: #FFFFFF;
+}
+
+.phone_step_status {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 180%;
+    /* or 32px */
+
+
+    /* Manifesto/manifesto-darkgrey */
+
+    color: #868686;
+
+    opacity: 0.6;
+
+}
+
+.phone_claim_button_text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    /* Manifesto/manifesto-darkBG */
+
+    color: #060606;
+
+}
+
+.phone_gas {
+    padding: 0px 8px 0px 8px;
+    height: 25px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Manifesto/manifesto-purewhite */
+
+    color: #FFFFFF;
+    background: #34B175;
+    border-radius: 5px;
+}
+
+.phone_claim_btn {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    width:calc(100% - 30px) ;
+    height: 50px;
+    background-color: #FFE458 
+}
+
+
+.phone_title_demo {
+    width: 39px;
+    height: 16px;
+    margin-left: 10px;
+    display: flex;
+    padding-bottom: 0.5px;
+    justify-content: center;
+    align-items: center;
+    background: #FFE458;
+    border: 1px solid rgba(255, 228, 88, 0.8);
+    border-radius: 2px;
+    
+}
+
+.phone_title_demo_text {
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    color: #1D1D1D;
+}

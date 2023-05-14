@@ -1,0 +1,145 @@
+.title {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    /* identical to box height */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-middleyellow */
+
+    color: #FFE458;
+}
+
+
+.title_demo {
+    width: 60px;
+    height: 33px;
+    position: absolute;
+    right: 215px;
+    top:50%;
+    bottom:50%;
+    transform: translate(0,-17px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFE458;
+    border: 1px solid rgba(255, 228, 88, 0.8);
+    border-radius: 5px;
+    
+}
+.title_demo_text {
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    color: #1D1D1D;
+}
+
+
+.slogan {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 180%;
+    /* or 32px */
+
+    text-align: center;
+    text-transform: capitalize;
+
+    /* Manifesto/manifesto-purewhite */
+
+    color: #FFFFFF;
+}
+
+.address {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 180%;
+    /* or 32px */
+
+
+    /* Manifesto/manifesto-darkgrey */
+
+    color: #868686;
+
+}
+
+.step {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 180%;
+    /* or 32px */
+
+
+    /* Manifesto/manifesto-lightyellow */
+
+    color: #FFFBE4;
+}
+
+.step_content {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 180%;
+    /* or 32px */
+
+
+    /* Manifesto/manifesto-purewhite */
+
+    color: #FFFFFF;
+}
+
+.step_status {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 180%;
+    /* or 32px */
+
+
+    /* Manifesto/manifesto-darkgrey */
+
+    color: #868686;
+
+    opacity: 0.6;
+
+}
+
+.button_text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    /* Manifesto/manifesto-darkBG */
+
+    color: #060606;
+
+}
+
+.gas {
+    width: 80px;
+    height: 30px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Manifesto/manifesto-purewhite */
+
+    color: #FFFFFF;
+    background: #34B175;
+    border-radius: 5px;
+}

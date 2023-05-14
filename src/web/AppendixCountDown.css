@@ -1,0 +1,80 @@
+.appendix_block {
+    background: rgba(0, 0, 0, 0.58);
+    border: 1.43282px solid #242424;
+    box-shadow: 0px 0px 9.55215px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Manifesto/manifesto-white */
+
+    color: #EAEAEA;
+
+    text-shadow: 0px 0px 9.55215px rgba(255, 255, 255, 0.59);
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+
+.appendix_label {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-darkgrey */
+
+    color: #868686;
+}
+
+
+
+.appendix_sep {
+    margin-top: 25px;
+    width: 40px;
+    height: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 49px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    /* Manifesto/manifesto-white */
+
+    color: #EAEAEA;
+
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.59);
+}
+
+.appendix_label2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: left;
+    line-height: 32px;
+    color: #EAEAEA;
+}

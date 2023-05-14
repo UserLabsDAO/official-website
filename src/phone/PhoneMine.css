@@ -1,0 +1,176 @@
+
+
+.phone_MyUWT {
+    display: flex;
+    justify-content: center;
+    height: 34px;
+    background-color: #FFE458;
+    align-items: center;
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    color: #060606;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.phone_no_connect_wallet {
+    width: 14px;
+    height: 14px;
+    margin-right: 5px;
+}
+
+.phone_info_balance {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: right;
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-middleyellow */
+
+    color: #FFE458;
+}
+
+.info_address {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: right;
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-darkBG */
+
+    color: #060606;
+
+}
+
+.phone_pop_title {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-white */
+
+    color: #EAEAEA;
+
+}
+
+.phone_pop_balance {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    /* identical to box height */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    /* Manifesto/manifesto-middleyellow */
+
+    color: #FFE458;
+
+}
+
+.phone_pop_claim {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    /* Manifesto/manifesto-darkgrey */
+
+    color: #868686;
+
+}
+
+.phone_pop_claim_value {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    /* Manifesto/manifesto-purewhite */
+
+    color: #FFFFFF;
+
+}
+
+.phone_pop_redeem {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    color: rgba(255, 255, 255, 0.3);
+
+}
+
+
+.phone_pop_timer {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Manifesto/manifesto-darkBG */
+
+    color: #060606;
+
+}
+
+.phone_pop_dis {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    /* Manifesto/manifesto-white */
+
+    color: #EAEAEA;
+
+}
+
+.phone_address {
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    text-align: right;
+    text-transform: uppercase;
+    margin-left: 3px;
+    color: #4F4F4F;
+}
